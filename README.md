@@ -68,6 +68,9 @@ Lower priority number means higher priority.
 
 Round Robin uses user-given time quantum.
 
-<img width="1920" height="4788" alt="screencapture-localhost-9595-CPUSchedulingCalculator-SchedulingServlet-2026-05-25-14_47_14" src="https://github.com/user-attachments/assets/d499fd4c-2b0e-4caf-8c7f-42515d754b6d" />
-<img width="1401" height="813" alt="Screenshot 2026-05-25 144623" src="https://github.com/user-attachments/assets/0a9948c5-251c-4504-8469-d8648d447664" />
 <img width="1912" height="859" alt="Screenshot 2026-05-25 144346" src="https://github.com/user-attachments/assets/e9abfd4b-adf4-4dfb-832a-3927538b4581" />
+
+<img width="1401" height="813" alt="Screenshot 2026-05-25 144623" src="https://github.com/user-attachments/assets/0a9948c5-251c-4504-8469-d8648d447664" />
+
+<img width="1920" height="4788" alt="screencapture-localhost-9595-CPUSchedulingCalculator-SchedulingServlet-2026-05-25-14_47_14" src="https://github.com/user-attachments/assets/d499fd4c-2b0e-4caf-8c7f-42515d754b6d" />
+
